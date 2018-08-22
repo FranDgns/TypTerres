@@ -1,2 +1,2 @@
 # TypTerres
-Ensemble des script pour le projet TypTerres
+Ensemble des scripts pour le projet TypTerres
